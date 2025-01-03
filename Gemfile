@@ -9,7 +9,7 @@ group :development do
   gem 'sass-globbing', '1.1.5'
   gem 'stringex', '2.8.6'
   # > 2.1.0 causes slowdowns https://github.com/sass/sassc-ruby/issues/189
-  gem 'sassc', '2.1.0'
+  gem 'sassc', '2.4.0'
   gem 'sass-embedded', '1.83.0'
   gem 'rubocop', '1.69.2'
   gem 'ruby-lsp', '0.22.1'
